@@ -1,0 +1,14 @@
+{
+  "name": "ecommerce-mock",
+  "version": "1.0.0",
+  "scripts": {
+    "format": "standard --fix"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "fastify": "^4.8.1"
+  },
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
